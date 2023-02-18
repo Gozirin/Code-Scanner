@@ -1,4 +1,4 @@
-# QR-Code-Scanner-Android-App
+# QR-Code-Scanner
 QR Code and Bar code scanner app developed using Google Vision API
 
 # Library is used
